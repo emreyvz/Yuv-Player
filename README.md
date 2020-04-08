@@ -1,2 +1,7 @@
-# Yuv-Player
-A Video Player for .yuv Files
+# Yuv-Player for .yuv Files
+
+An application that provides playing yuv files.
+
+
+## Screenshot
+![Yuv Player](screenshot.png)
